@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DR0EcBIL8IEkDV4cmdmj44Ze08XDIQOXqpZm/0vU0nERWX9T6ivpMD4DOqKG09uHmOPy8S67FtxYKzo3z58qQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Downloads\\Compressed\\Test\\Hasini\\Individual_01\\Individual_01\\Individual_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
